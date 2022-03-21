@@ -96,3 +96,22 @@ Tags, Elements and Attributes
 Block and Inline Elements
 HTML Basic Tags - p, h1, img, a
 Absolute and Relative Url
+Semantic Tags (HTML 5)
+
+Semantic elements in HTML:
+<article>
+<aside>
+<details>
+<figcaption>
+<figure>
+<footer>
+<header>
+<main>
+<mark>
+<nav>
+<section>
+<summary>
+<time>
+
+List - ol, ul
+Table
