@@ -36,8 +36,8 @@ Client - Your Browser
 Course Content :-
 html
 css
-js
-react / Angular
+js - Approx 1 Month
+react / Angular - Approx 1 Month
 Node
 Express
 mongoDB / SQL
@@ -115,3 +115,7 @@ Semantic elements in HTML:
 
 List - ol, ul
 Table
+Forms
+
+
+Read - GET vs POST - HTML Form Submission
