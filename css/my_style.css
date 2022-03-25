@@ -1,0 +1,88 @@
+body {
+    color: rgb(17, 184, 12);
+}
+
+/* Tag selector */
+a {
+    color: salmon;
+}
+div {
+    color: blue;
+}
+
+/* ID selector */
+#link1 {
+    color: sienna;
+}
+
+/* Class selector */
+.link_1 {
+    color: red;
+}
+
+
+
+.link_bold {
+    font-weight: bold;
+}
+.link_underline {
+    text-decoration: underline;
+}
+.font_40 {
+    font-size: 40px;
+}
+
+
+
+
+/* CSS - language to defines styles
+font
+structure
+colors
+spaces
+
+
+CSS - Cascading Styles Sheets
+
+Inheritng from parent
+
+
+
+UI - User Interface
+UX - User Experience
+
+
+Inline Styling    Same Page CSS     External CSS */
+
+
+
+
+/* color red - all 3
+                bold - 1,2
+                underline - 1,3
+                font size 40px - 2,3 */
+
+
+/* RGB - Red Green Blue
+/* HSB - */
+
+/* red/blue/green
+
+
+Red - 0 -255 - 00 - FF - 8 bit
+Green - 0-255 - 00-FF - 8 bit
+Blue - 0-255 - 00-FF - 8 bit
+
+3 8 bit registers  - one final colour
+
+red - FF0000
+green - 00ff00
+blue - 0000ff
+yellow - 00ffff
+black - 000000
+222222    555555    777777  aaaaaa  dddddd
+
+color: #ff0000
+color: rgba(255,0,0,0.5)
+
+rgb(255,0,0) */

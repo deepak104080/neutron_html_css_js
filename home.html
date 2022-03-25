@@ -22,17 +22,69 @@
         </script>
 
         <style>
-            body {
+            /* body {
                 color: royalblue;
-            }
+            } */
         </style>
+
+        <!-- ../ - one folder back
+        ./ - same folder -->
+
+        <link href="./css/my_style.css" rel="stylesheet" type="text/css" />
     </head>
 
     <body>
-        <div style="width: 600px;">
-            <a href="form.html">Click here to sign up/register</a><br>
-            <a href="about.html">About Page</a><br>
-            <a href="contact.html">Contact Page</a>
+        <div style="width: 1200px;">
+
+            <div>
+                a+b;
+                length = 10
+
+                                                    10+20
+                answer = 20
+            </div>
+            <pre>
+                a+b;
+                length = 10
+
+                                                    10+20
+                answer = 20
+            </pre>
+            <center>
+                a;owiefh;oaihwefoihaow;iefhoaiwhefoawhe
+            </center>
+           <table border="1">
+                <tr>
+                    <td>Δ</td>
+                    <td>Number - &#916;</td>
+                    <td>Entity - &Delta;</td>
+                </tr>
+                <tr>
+                    <td>♠</td>
+                    <td>&9#824;</td>
+                    <td>&spades;</td>
+                </tr>
+                <tr>
+                    <td>	&#128512;</td>
+                    <td>🤣</td>
+                    <td>&#x1F600;</td>
+                </tr>
+            </table>
+            <p>Deepak &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kumar</p>
+
+            <a id="link1" class="link_1 link_bold link_underline" href="form.html">Click here to sign up/register</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <a id="link2" class="link_1 link_bold font_40" href="about.html">About Page</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <a id="link3" class="link_1 link_underline font_40" href="contact.html">Contact Page</a>
+
+
+
+                <!-- color red - all 3
+                bold - 1,2
+                underline - 1,3
+                font size 40px - 2,3 -->
+
+
+
             <br><br><br><br><br><br><br><br><br><br>
             <a href="#para2">
                 Go to para 2
@@ -50,6 +102,14 @@
             <h6>Heading - Smallest Size</h6>
 
 
+            <picture>
+                <source media="(min-width:650px)" srcset="images/flower1.jpg">
+                <source media="(min-width:465px)" srcset="images/flower2.jpg">
+                <img src="images/img_internal/ns.png" style="width:auto;">
+              </picture>
+
+            <marquee>sample text</marquee>
+
 
             <a href="https://www.google.com/">
                 <img src="./images/img_internal/ns.png"  />
@@ -58,7 +118,13 @@
                 Google
             </a>
 
-            <img src="./images/img_internal/ns.png">Content</img>
+            <!-- <img src="./images/img_internal/ns.svg" /> -->
+
+            <!--
+            svg - scalable vector graphics
+            canvas -->
+            <canvas  width="200" height="100" id="myCanvas" style="border:1px solid #000000;">
+            </canvas>
 
 
             <!-- <h1>Comments in HTML</h1> -->
@@ -200,5 +266,15 @@
 
 
         </div>
+
+
+        <script>
+            var c = document.getElementById("myCanvas");
+            var ctx = c.getContext("2d");
+            ctx.beginPath();
+            ctx.arc(95, 50, 40, 0, 2 * Math.PI);
+            ctx.stroke();
+        </script>
+
     </body>
 </html>
