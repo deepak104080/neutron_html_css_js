@@ -1,0 +1,58 @@
+body {
+    background-color: #dddddd;
+}
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.header {
+    width: 100%;
+    height: 10vh;
+    background-color: yellow;
+}
+
+.main {
+    width: 100%;
+    height: 80vh;
+    background-color: yellowgreen;
+}
+
+.footer {
+    width: 100%;
+    height: 10vh;
+    background-color: palevioletred;
+    
+}
+
+.main_left {
+    width: 25%;
+    height: 100%;
+    background-color: rebeccapurple;
+    /* display: inline-block; */
+    float: left;
+}
+.main_center {
+    width: 50%;
+    height: 100%;
+    background-color: rosybrown;
+    /* display: inline-block; */
+    float: left;
+}
+.main_right {
+    width: 25%;
+    height: 100%;
+    background-color: rebeccapurple;
+    /* display: inline-block; */
+    float: left;
+}
+
+/* 16px - 1 rem */
+/* gap, width, height, margin padding - px, rem/em, %, 100vh */
+
+/* #header_div {
+    width: 1200px;
+    height: 100px;
+    background-color: yellow;
+} */
