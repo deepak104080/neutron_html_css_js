@@ -32,6 +32,7 @@ body {
     background-color: rebeccapurple;
     /* display: inline-block; */
     float: left;
+    
 }
 .main_center {
     width: 50%;
@@ -47,6 +48,89 @@ body {
     /* display: inline-block; */
     float: left;
 }
+
+.content_heading {
+    width: calc(100% - 60px);
+    height: calc(20% - 60px);
+    padding: 20px;
+    margin: 10px;
+    background-color: coral;
+    
+    /* display: none; */
+    /* visibility: hidden;
+    opacity: 0; */
+}
+
+.content_box {
+    /* width: 40%; */
+    width: calc(50% - 60px);
+    height: calc(40% - 60px);
+    background-color: #00ffff;
+    float: left;
+    /* border-width: 5px;
+    border-style: solid;
+    border-color: darkgreen; */
+    border:5px solid darkgreen;
+    /* margin-left: 5px;
+    margin-right: 10px;
+    margin-top: 15px;
+    margin-bottom: 20px; */
+    margin: 10px 10px 10px 10px;
+    /* margin: top right bottom left; */
+    /* margin - start from top and go clockwise */
+    /* margin: 5px;
+    margin: 5px 10px; */
+    /* margin: 5px 10px 15px; */
+    padding: 15px 15px 15px 15px;
+    background-image: url('../images/flower1.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    opacity: 0.5;
+}
+
+.content_box div {
+    color: white;
+}
+
+.content_box > div {
+    color: red;
+}
+
+.main_right ul {
+    list-style-type: none;
+    background: #00ffff;
+}
+.main_right ul li {
+    border:1px solid #ff00aa;
+    padding: 10px;
+    margin: 10px;
+}
+.main_right ul li:first-child {
+    font-weight: bold;
+    color: red;
+}
+.main_right ul li:last-child {
+    text-decoration: underline;
+    color: blue;
+}
+.main_right ul li:nth-child(2n) {
+    font-size: 20px;
+}
+.main_right ul li:nth-child(2n+1) {
+    font-size: 30px;
+    font-style: italic;
+}
+.main_right ul li:nth-child(3) {
+    font-weight: bold;
+    color: green;
+    text-shadow: 10px 10px 10px red;
+}
+
+/* 1st child - bold - red
+last child  - underline and blue
+even child - font size 20px
+odd child - font size 20px and text italics
+3rd child - bold green, text-shadow */
 
 /* 16px - 1 rem */
 /* gap, width, height, margin padding - px, rem/em, %, 100vh */
