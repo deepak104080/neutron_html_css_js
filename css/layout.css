@@ -10,7 +10,7 @@ body {
 .header {
     width: 100%;
     height: 10vh;
-    background-color: yellow;
+    background-color: #C0EDA6;
 }
 
 .main {
@@ -22,14 +22,14 @@ body {
 .footer {
     width: 100%;
     height: 10vh;
-    background-color: palevioletred;
+    background-color: #FFF7BC;
     
 }
 
 .main_left {
     width: 25%;
     height: 100%;
-    background-color: rebeccapurple;
+    background-color: #FF8080;
     /* display: inline-block; */
     float: left;
     
@@ -44,7 +44,7 @@ body {
 .main_right {
     width: 25%;
     height: 100%;
-    background-color: rebeccapurple;
+    background-color: #FF8080;
     /* display: inline-block; */
     float: left;
 }
@@ -86,6 +86,8 @@ body {
     background-size: cover;
     background-repeat: no-repeat;
     opacity: 0.5;
+    /* overflow: hidden;  to hide extra content */
+    overflow-y:scroll;
 }
 
 .content_box div {
@@ -105,6 +107,10 @@ body {
     padding: 10px;
     margin: 10px;
 }
+.main_right ul li:hover {
+    background-color: magenta;
+}
+/* :disabled, :focus, :active, :visited */
 .main_right ul li:first-child {
     font-weight: bold;
     color: red;
@@ -140,3 +146,113 @@ odd child - font size 20px and text italics
     height: 100px;
     background-color: yellow;
 } */
+
+
+.main_left img {
+    width: 100%;
+    display: block;
+}
+.main_left p {
+    color: royalblue;
+    background-color: seagreen;
+    border: 1px solid #ff00aa;
+    padding: 10px;
+}
+
+.main_left h1 {
+    color:#ff00aa;
+    background-color: aqua;
+    border: 1px solid #ff00aa;
+    padding: 10px;
+    font-size: 50px;
+}
+
+.main_left button {
+    background-color: aquamarine;
+    padding: 20px;
+    border: 5px solid #01a4fd;
+}
+
+.main_left a {
+    display: block;
+    margin: 20px;
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+
+.main_right table {
+    background-color: yellowgreen;
+    border: 5px solid #01a4fd;
+}
+.main_right table th {
+    font-weight: bold;
+    color: violet;
+    padding: 10px;
+    /* border: 5px solid #0104fd; */
+}
+
+.main_right table tr td, .main_right table tr th {
+    border-bottom: 1px solid #222222;
+}
+
+.main_right span {
+    padding: 20px;
+    background-color: mediumvioletred;
+    border-radius: 40px;
+    display: block;
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    position: absolute;
+    right: 20px;
+    top: 100px;
+    /* z-index: 1; position absolute is compulsory */
+}
+.main_right span.span_one {
+    z-index: 1000;
+}
+.main_right span.span_two {
+    z-index: 100;
+    top: 150px;
+    background-color: blue;
+}
+
+
+
+/* static - normal
+relative - sticky
+absolute -fixed */
+
+.main_left h1 {
+    color: #ff00aa;
+}
+
+.main_left h1 {
+    color: #0f00aa;
+}
+
+.main_left h1 {
+    color: #0ff0aa;
+}
+
+.main_left a {
+    background-color: lightgreen;
+}
+.main .main_left a {
+    background-color: limegreen;
+}
+a {
+    background-color: pink!important;
+}
+
+
+
+/* 
+rule 1 - inline css > same page css > external page css
+rule 2 - specificity rule - if selectors are different - same element
+rule 3 - last css is final - if selectors are same and same element
+*/
+    /* id(100)      class(10)       tag(1)     finalscore
+206 - 0             10              1        - 11
+209 - 0             0               1         - 1 */
