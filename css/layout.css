@@ -12,6 +12,7 @@ body {
     /* height: 10vh; */
     background-color: #C0EDA6;
     padding: 30px 0px;
+    height: 100px;
 }
 
 .main {
@@ -308,4 +309,34 @@ use this css */
         border-width: 20px;
         background-color: #ff00aa;
     }
+}
+
+
+.header .logo {
+    width: 10%;
+    font-size: 20px;
+    float: left;
+    margin-left: 10%;
+}
+.header .search {
+    width: 40%;
+    float: left;
+}
+.header .login {
+    width: 10%;
+    font-size: 20px;
+    float: left;
+}
+.header .login button {
+    background-color: white;
+    padding: 20px 0px;
+}
+.header .options {
+    width: 10%;
+    float: left;
+}
+.header .cart {
+    width: 10%;
+    float: left;
+    margin-right: 10%;
 }
