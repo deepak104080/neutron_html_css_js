@@ -7,6 +7,9 @@ CSS
 JS
 
 
+Excel Sheet for Doubts and Interview qs - https://docs.google.com/spreadsheets/d/16dFFGj3JOWm7B7kietcCKuU8UdxdFMoraDY7JJZ0Mfw/
+
+
 # ##################################
 
 Topics Covered
@@ -119,3 +122,89 @@ Forms
 
 
 Read - GET vs POST - HTML Form Submission
+
+
+
+
+-------------------------------------------
+
+
+JS - JavaScript - Netscape - Brendan Eich
+
+
+C/C++ - compiler, interprter - gcc
+Java - .java (JDK, JRE, JVM)
+
+JS - JavaScript Engine
+Chrome - v8
+Firefox - Surveymonkey
+
+
+Browser - (v8) - scripting langugae
+NodeJS - (v8) - programming language
+
+NodeJS - Written in C++ - (v8 + node packages + libuv )
+
+
+client - browser
+server - back-end/hosting
+
+------------------------------------
+
+
+programming - software developer - domains
+--web developer
+--data analyst/scientist (SQL, Query langugae)
+--ethical hackers (programming, databases)
+--iot (embedded c, java, .DET, C++)
+--ai (python, iot, sql)
+--machine learning
+--dev of os (C/C++)
+-- dev os hardware based applications
+
+
+--------------------------------------------
+
+
+How to decide technology :-
+older software
+resources
+server and databases
+speed, application criticality
+number of users
+trending
+community
+future
+
+--------------------------------------
+
+
+Programming Language Stacks :-
+js stack - combination of technologies
+java stack
+python stack
+ror
+golang
+php stacks
+.NET
+
+
+
+Apache - tool - virtual server
+Dev + Ops - operations on Dev (Cloud)
+
+
+
+JavaScript Stacks :-
+
+Front end framework/libraries - React, Angular, Viu, backboneJS, Meteor. jQuery
+Back end framework - express, Koa, nextJs, Blitzjs
+Database - sql, mongodb
+
+MERN - MongoDB Express React NodeJS
+MEAN - MongoDB Express Angular NodeJS
+
+
+How to run JS :-
+online tool/console - jsfiddle, codepen
+.js files - 1) node - js file, 2) browser - attach js file with html and then run
