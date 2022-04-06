@@ -143,7 +143,7 @@ Firefox - Surveymonkey
 Browser - (v8) - scripting langugae
 NodeJS - (v8) - programming language
 
-NodeJS - Written in C++ - (v8 + node packages + libuv )
+NodeJS - Written in C++ - (v8 + node packages + libuv ) - 2009
 
 
 client - browser
@@ -208,3 +208,9 @@ MEAN - MongoDB Express Angular NodeJS
 How to run JS :-
 online tool/console - jsfiddle, codepen
 .js files - 1) node - js file, 2) browser - attach js file with html and then run
+
+
+
+Variables - https://jsfiddle.net/deepak104080/06d2Lwr1/1/
+Function - https://jsfiddle.net/deepak104080/kcarsv03/1/
+NS Neutron - Scope - https://jsfiddle.net/deepak104080/8cy5aet9/2/
