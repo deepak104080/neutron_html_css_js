@@ -212,5 +212,9 @@ online tool/console - jsfiddle, codepen
 
 
 Variables - https://jsfiddle.net/deepak104080/06d2Lwr1/1/
-Function - https://jsfiddle.net/deepak104080/kcarsv03/1/
-NS Neutron - Scope - https://jsfiddle.net/deepak104080/8cy5aet9/2/
+Function - https://jsfiddle.net/deepak104080/kcarsv03/2/
+Scope - https://jsfiddle.net/deepak104080/8cy5aet9/2/
+
+var let const - https://jsfiddle.net/deepak104080/erpdsjx5/2/
+Hoisting - https://jsfiddle.net/deepak104080/jh2krge1/1/
+if else - https://jsfiddle.net/deepak104080/7s1L69h5/2/
