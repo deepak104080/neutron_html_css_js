@@ -218,3 +218,7 @@ Scope - https://jsfiddle.net/deepak104080/8cy5aet9/2/
 var let const - https://jsfiddle.net/deepak104080/erpdsjx5/2/
 Hoisting - https://jsfiddle.net/deepak104080/jh2krge1/1/
 if else - https://jsfiddle.net/deepak104080/7s1L69h5/2/
+
+Loop, Var Misc - https://jsfiddle.net/deepak104080/4dpfv2cq/6/
+Type Conversion and Coercion - https://jsfiddle.net/deepak104080/bk3cvtyL/2/
+Array Methods - https://jsfiddle.net/deepak104080/1mbn2r5L/3/
