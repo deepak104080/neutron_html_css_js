@@ -213,7 +213,7 @@ online tool/console - jsfiddle, codepen
 
 Variables - https://jsfiddle.net/deepak104080/06d2Lwr1/1/
 Function - https://jsfiddle.net/deepak104080/kcarsv03/2/
-Scope - https://jsfiddle.net/deepak104080/8cy5aet9/2/
+Scope - https://jsfiddle.net/deepak104080/8cy5aet9/3/
 
 var let const - https://jsfiddle.net/deepak104080/erpdsjx5/2/
 Hoisting - https://jsfiddle.net/deepak104080/jh2krge1/1/
@@ -222,3 +222,7 @@ if else - https://jsfiddle.net/deepak104080/7s1L69h5/2/
 Loop, Var Misc - https://jsfiddle.net/deepak104080/4dpfv2cq/6/
 Type Conversion and Coercion - https://jsfiddle.net/deepak104080/bk3cvtyL/2/
 Array Methods - https://jsfiddle.net/deepak104080/1mbn2r5L/3/
+
+
+ES6 - https://jsfiddle.net/deepak104080/kL1q75tr/7/
+Arrow Function - https://jsfiddle.net/deepak104080/us7pv861/5/
