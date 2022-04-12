@@ -226,3 +226,8 @@ Array Methods - https://jsfiddle.net/deepak104080/1mbn2r5L/3/
 
 ES6 - https://jsfiddle.net/deepak104080/kL1q75tr/7/
 Arrow Function - https://jsfiddle.net/deepak104080/us7pv861/5/
+
+
+12th April 2022 - Tuesday
+ES6 2 - https://jsfiddle.net/deepak104080/mbay7tz6/6/
+Closure - https://jsfiddle.net/deepak104080/4sm3g1dc/6/
