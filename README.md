@@ -231,3 +231,8 @@ Arrow Function - https://jsfiddle.net/deepak104080/us7pv861/5/
 12th April 2022 - Tuesday
 ES6 2 - https://jsfiddle.net/deepak104080/mbay7tz6/6/
 Closure - https://jsfiddle.net/deepak104080/4sm3g1dc/6/
+
+
+13th April 2022 - wednesday
+Closure Example - https://jsfiddle.net/deepak104080/n01prehf/18/
+Array Methods - https://jsfiddle.net/deepak104080/fc2kwevn/3/
