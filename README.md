@@ -236,3 +236,9 @@ Closure - https://jsfiddle.net/deepak104080/4sm3g1dc/6/
 13th April 2022 - wednesday
 Closure Example - https://jsfiddle.net/deepak104080/n01prehf/18/
 Array Methods - https://jsfiddle.net/deepak104080/fc2kwevn/3/
+
+
+14th April 2022 - Thursday
+Array map reduce filter - https://jsfiddle.net/deepak104080/tsdxrok6/1/
+Object - https://jsfiddle.net/deepak104080/oznb3xje/1/
+Assignments - https://jsfiddle.net/deepak104080/6xkw5n2v/17/
