@@ -240,5 +240,29 @@ Array Methods - https://jsfiddle.net/deepak104080/fc2kwevn/3/
 
 14th April 2022 - Thursday
 Array map reduce filter - https://jsfiddle.net/deepak104080/tsdxrok6/1/
-Object - https://jsfiddle.net/deepak104080/oznb3xje/1/
+Object - https://jsfiddle.net/deepak104080/oznb3xje/2/
 Assignments - https://jsfiddle.net/deepak104080/6xkw5n2v/17/
+
+
+15th April 2022 - Friday
+Bootstrap - Include in files - bootstrap.html
+Object methods - https://jsfiddle.net/deepak104080/kfngp241/6/
+Deep copy vs shallow copy - https://jsfiddle.net/deepak104080/72mjLqpa/2/
+Date, String, Math - https://jsfiddle.net/deepak104080/92mzu8fx/4/
+Data Input using NodeJS - https://shobhitsingh29.medium.com/getting-started-on-codechef-using-javascript-4529be3d8255
+Objects - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object
+String - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String
+Array - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array
+
+
+
+HOF - 
+Closure - Curry - 
+Prototype and Inheritance - 
+OOPS and Constructor - 
+BOM - 
+DOM - 
+Selection, Manipulation - 
+Creation - 
+Event Bubblin - 
+DOM Events - 
