@@ -256,6 +256,12 @@ Array - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global
 
 
 
+18th April 2022 - Monday
+DOM - https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/DOM-model.svg/1200px-DOM-model.svg.png
+
+
+
+
 HOF - 
 Closure - Curry - 
 Prototype and Inheritance - 
