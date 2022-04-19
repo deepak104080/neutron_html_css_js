@@ -5,13 +5,39 @@
     </head>
     <body>
         <div class="movie">
-            <p id="movie_name">My name is KHAN</p>
-            <p id="tagline">And, I am not a terrorist.</p>
+            <p id="movie_name"><p>My name is KHAN</p></p>
+            <!-- <p id="movie_name">My name
+                 is KHAN</p>
+            <p id="movie_name">My name is KHAN</p> -->
+            <p id="tagline" class="tagline_class">And, I am not a terrorist.</p>
+
             <span class="cast">Kajol</span>
             <span class="cast">Shahrukh</span>
-        </div>
+            <br><br>
+            <button onclick="display_name(event)">Click here to show my name</button>
 
-        
+
+            <br><br>
+            <input type="text" id="your_name"/>
+            <button onclick="display_name_input()">Click here to show new name</button>
+
+            <select onchange="select_fn()">
+                <option>India</option>
+                <option>Pakistan</option>
+                <option>China</option>
+                <option>Banglkaadesh</option>
+            </select>
+
+
+            <ul onclick="temp_fn(event)">
+                <li>a</li>
+                <li>b</li>
+                <li>c</li>
+                <li>d</li>
+            </ul>
+        </div>
+        <!-- youtube videos -->
+        <!-- <iframe src="https://www.newtonschool.co/" width="400" height="300"></iframe> -->
         <script src="./js/dom.js" type="text/javascript"></script>
     </body>
 </html>
