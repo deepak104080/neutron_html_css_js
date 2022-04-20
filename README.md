@@ -261,6 +261,20 @@ DOM - https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/DOM-model.svg/12
 
 
 
+19th April 2022 - Tuesday
+Internal Files
+
+
+20th April 2022 - Wednesday
+Function Curry - https://jsfiddle.net/deepak104080/oxv68hL2/2/
+Git Commands - https://jsfiddle.net/deepak104080/ry5pn3ad/1/
+Questions - https://jsfiddle.net/deepak104080/Lqsa08hz/4/
+Assignments - https://jsfiddle.net/deepak104080/pog72jd5/3/
+iFrame - https://www.geeksforgeeks.org/html-dom-iframe-object/
+Netlify Deploy
+
+
+
 
 HOF - 
 Closure - Curry - 

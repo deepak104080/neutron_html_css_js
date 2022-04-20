@@ -182,7 +182,7 @@ temp.children
 // DOM Event Methods- click, blur, change, hover, focus, focusin, focusout, select, scroll, mouseover, keyup, keydown, keypress, touch, slide
 
 // inline function in html
-// add event listener
+
 
 
 // DOM Event - Object
@@ -212,3 +212,19 @@ function temp_fn (event) {
 }
 
 //HW - how to read checkbox, radio
+
+
+
+// add event listener
+// event propogation
+// delegaton
+// localStorage
+// validation
+// regex
+
+
+
+
+// var iframe_temp = document.getElementById('iframe_temp');
+// console.log(iframe_temp);
+// iframe_temp.contentWindow.document
