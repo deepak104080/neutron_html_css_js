@@ -228,3 +228,15 @@ function temp_fn (event) {
 // var iframe_temp = document.getElementById('iframe_temp');
 // console.log(iframe_temp);
 // iframe_temp.contentWindow.document
+
+function fn_button_temp_1() {
+    console.log('test....................');
+}
+
+function fn_button_temp_2() {
+    console.log('test 2....................');
+}
+
+let button_temp_1 = document.getElementById('button_temp_1');
+button_temp_1.addEventListener('click', fn_button_temp_1 );
+button_temp_1.addEventListener('click', fn_button_temp_2 );

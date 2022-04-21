@@ -274,15 +274,27 @@ iFrame - https://www.geeksforgeeks.org/html-dom-iframe-object/
 Netlify Deploy
 
 
+21st April 2022 - Thursday
+Event Propogation - Bubbling and Capturing - https://jsfiddle.net/deepak104080/th8xs127/7/
+DOM Assignments - https://jsfiddle.net/deepak104080/5vgnw674/4/
+Async JS - https://jsfiddle.net/deepak104080/ycn0ud37/4/
 
 
-HOF - 
-Closure - Curry - 
-Prototype and Inheritance - 
-OOPS and Constructor - 
-BOM - 
-DOM - 
-Selection, Manipulation - 
-Creation - 
-Event Bubblin - 
-DOM Events - 
+
+HOF
+Event Loop
+setInterval
+Callback
+Promise
+Async Awaut
+API Call - fetch, axios
+Prototype and Inheritance, Polyfill
+OOPS and Constructor
+ES6 - All methods
+Trciky
+Qs
+Map, Set
+Assignments
+Chrome Extensions
+Mini Project
+Major Projects
