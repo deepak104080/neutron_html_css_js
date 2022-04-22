@@ -280,21 +280,8 @@ DOM Assignments - https://jsfiddle.net/deepak104080/5vgnw674/4/
 Async JS - https://jsfiddle.net/deepak104080/ycn0ud37/4/
 
 
-
-HOF
-Event Loop
-setInterval
-Callback
-Promise
-Async Awaut
-API Call - fetch, axios
-Prototype and Inheritance, Polyfill
-OOPS and Constructor
-ES6 - All methods
-Trciky
-Qs
-Map, Set
-Assignments
-Chrome Extensions
-Mini Project
-Major Projects
+22nd April 2022 - Friday
+Event Loop - https://miro.medium.com/max/1400/1*iHhUyO4DliDwa6x_cO5E3A.gif
+Async JS - https://jsfiddle.net/deepak104080/ycn0ud37/6/
+Callback - https://jsfiddle.net/deepak104080/s9qcpzfx/3/
+Assignment Stopwatch - https://jsfiddle.net/deepak104080/9zq7ua6h/17/
