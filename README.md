@@ -285,3 +285,10 @@ Event Loop - https://miro.medium.com/max/1400/1*iHhUyO4DliDwa6x_cO5E3A.gif
 Async JS - https://jsfiddle.net/deepak104080/ycn0ud37/6/
 Callback - https://jsfiddle.net/deepak104080/s9qcpzfx/3/
 Assignment Stopwatch - https://jsfiddle.net/deepak104080/9zq7ua6h/17/
+
+
+25th April 2022 - Monday
+Promise - https://jsfiddle.net/deepak104080/wmqu0a21/2/
+API Call - Fetch and Promise - https://jsfiddle.net/deepak104080/z5nqsom4/5/
+Async Await - https://jsfiddle.net/deepak104080/jphdrgkq/4/
+Assignments - https://jsfiddle.net/deepak104080/vLoh2yg5/4/
