@@ -292,3 +292,13 @@ Promise - https://jsfiddle.net/deepak104080/wmqu0a21/2/
 API Call - Fetch and Promise - https://jsfiddle.net/deepak104080/z5nqsom4/5/
 Async Await - https://jsfiddle.net/deepak104080/jphdrgkq/4/
 Assignments - https://jsfiddle.net/deepak104080/vLoh2yg5/4/
+
+
+
+26th April 2022 - Tuesday
+Prototype - https://jsfiddle.net/deepak104080/esouaw03/2/
+Prototype Chain - https://jsfiddle.net/deepak104080/unv864e0/2/
+call, apply, bind - https://jsfiddle.net/deepak104080/vmqhuje0/2/
+Polyfill - https://jsfiddle.net/deepak104080/yczqs9ju/2/
+JSON - https://jsfiddle.net/deepak104080/1gL02ntv/2/
+
