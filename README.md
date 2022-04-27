@@ -1,10 +1,8 @@
 # ###################################
-Github URL - https://github.com/deepak104080/neutron_html_css_js
+Github URLs - 
+HTML, CSS and JS - https://github.com/deepak104080/neutron_html_css_js
+REACT - https://github.com/deepak104080/neutron_react
 
-Topics :-
-HTML
-CSS
-JS
 
 
 Excel Sheet for Doubts and Interview qs - https://docs.google.com/spreadsheets/d/16dFFGj3JOWm7B7kietcCKuU8UdxdFMoraDY7JJZ0Mfw/
@@ -305,6 +303,9 @@ JSON - https://jsfiddle.net/deepak104080/1gL02ntv/2/
 
 
 
+27th April 2022 - Wednesday
+CDN - Content Delivery network
+NPM - Node Package Manager
 
 
 
@@ -312,9 +313,7 @@ JSON - https://jsfiddle.net/deepak104080/1gL02ntv/2/
 
 
 
-
-REACT
-
+REACT - 
 Librray based on JS
 
 NodeJS - 2009
@@ -324,15 +323,17 @@ separation of back end and front end
 andrid app
 ios app
 websites - front end
+
 BACK END
 -------REST API------
 FRONT END
-routing - changing of pages
-api calling
-internal data transfer
-templating
-temporary data storage
-login/authentication
+
+---routing - changing of pages
+---api calling
+---internal data transfer
+---templating
+---temporary data storage
+---login/authentication
 
 
 localStorage/sessionStorage
@@ -350,10 +351,7 @@ M - MONGODB
 E - EXPRESS
 N - NODEJS
 
-
-
-
-REACT
+REACT/ANGULAR
 
 
 1) create blank npm repo and add all react libraries
@@ -362,26 +360,24 @@ REACT
     -- add react
 
 
-
 git commands
-
-
 
 npm 
 npx = npm + git clone + npm install
-
-
 
 
 git first time upload
 git regular upload
 
 
-
-git first dowload
+git first download
 git regular downloads
 
 
-
-
 git clone
+npm install
+npm start - run
+
+
+git pull origin master
+
