@@ -302,3 +302,86 @@ call, apply, bind - https://jsfiddle.net/deepak104080/vmqhuje0/2/
 Polyfill - https://jsfiddle.net/deepak104080/yczqs9ju/2/
 JSON - https://jsfiddle.net/deepak104080/1gL02ntv/2/
 
+
+
+
+
+
+
+
+
+
+
+
+REACT
+
+Librray based on JS
+
+NodeJS - 2009
+
+separation of back end and front end
+
+andrid app
+ios app
+websites - front end
+BACK END
+-------REST API------
+FRONT END
+routing - changing of pages
+api calling
+internal data transfer
+templating
+temporary data storage
+login/authentication
+
+
+localStorage/sessionStorage
+
+not possible / not efficient - vanilla javascript
+
+
+Library vs Framework
+library - react - collection of functions/services - supporting libraries
+framework - angular - architecture (all inbuilt functionalities) - mvc, mv*
+
+
+MERN VS MEAN
+M - MONGODB
+E - EXPRESS
+N - NODEJS
+
+
+
+
+REACT
+
+
+1) create blank npm repo and add all react libraries
+2) react blank boilerplate
+    -- start a fresh project
+    -- add react
+
+
+
+git commands
+
+
+
+npm 
+npx = npm + git clone + npm install
+
+
+
+
+git first time upload
+git regular upload
+
+
+
+git first dowload
+git regular downloads
+
+
+
+
+git clone
