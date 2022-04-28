@@ -301,8 +301,6 @@ Polyfill - https://jsfiddle.net/deepak104080/yczqs9ju/2/
 JSON - https://jsfiddle.net/deepak104080/1gL02ntv/2/
 
 
-
-
 27th April 2022 - Wednesday
 CDN - Content Delivery network
 NPM - Node Package Manager
@@ -311,6 +309,36 @@ NPM - Node Package Manager
 
 
 
+
+----------------------------------------------------------------------------------
+
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number/EPSILON
+
+pi - 3.14 - irrational
+2.535 - rational
+
+1.1
+1.01
+1.0000001
+1.00000000000000004
+
+
+Number.epsilon
+1 just greater number - 1. <15 times zero> 1
+
+
+
+
+
+
+
+
+
+
+
+
+----------------------------------------------------------------------------------
 
 
 REACT - 
