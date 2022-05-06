@@ -299,7 +299,7 @@ Prototype Chain - https://jsfiddle.net/deepak104080/unv864e0/2/
 call, apply, bind - https://jsfiddle.net/deepak104080/vmqhuje0/2/
 Polyfill - https://jsfiddle.net/deepak104080/yczqs9ju/2/
 JSON - https://jsfiddle.net/deepak104080/1gL02ntv/2/
-
+JS Patterns - https://jsfiddle.net/deepak104080/4hs56edy/2/
 
 27th April 2022 - Wednesday
 CDN - Content Delivery network
