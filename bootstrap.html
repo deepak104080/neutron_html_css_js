@@ -18,7 +18,12 @@
             </div>
 
             <div class="row">
-                <div class="col-lg-3 col-xs-12 bg-success">Left Sidebar</div>
+                <div class="col-lg-3 col-xs-12 bg-success">
+                    <h2>Fill form...</h2><br>
+                    <input type="text" id="name"/><br>
+                    <input type="text" id="email"/><br>
+                    <button onclick="addData()">Add Data</button>
+                </div>
                 <div class="col-lg-6 col-xs-12 bg-info">
                     <table class="table table-striped table-warning">
                         <thead>
@@ -83,6 +88,25 @@
                 <div class="col-12">Footer</div>
             </div>
         </div>
+
+        <script>
+            function addData() {
+                // let obj = {};
+                let name = document.getElementById('name').value;
+                let email = document.getElementById('email').value;
+                // console.log(obj);
+                localStorage.setItem('name', [localStorage.getItem('name'), name]);
+                localStorage.setItem('email', email);
+
+
+                let dataFromForm1 = window.localStorage.getItem('name');
+                let dataFromForm2 = window.localStorage.getItem('email');
+                console.log(dataFromForm1, dataFromForm2);
+
+                // window.localStorage.removeItem('name');
+                // window.localStorage.clear();
+            }
+        </script>
 
     </body>
 </html>

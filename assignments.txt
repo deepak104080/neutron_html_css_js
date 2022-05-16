@@ -1,0 +1,79 @@
+To Do Test Cases
+
+
+
+
+can delete a task on clicking delete button
+    describe('Testing Deleting added items', () => {
+
+      it('can delete a task on clicking delete button', () => {
+     
+        cy.get('.todo-input').type('hello world2 ')
+        cy.get('.todo-button').click()
+        cy.get('.trash-btn:last').click()
+        cy.get('.todo-item')
+          .should('have.length', 1)
+          .should('not.have.text', 'hello world2 ')
+      })
+    })
+can remove the strike-through on toggling the complete button again
+
+    describe('Testing strike new item', () => {
+
+      it('can remove the strike-through on toggling the complete button again', () => {
+       
+        cy.get('.complete-btn:first').click()
+        cy.get('.todo-item')
+        // .should('have.length', 1)
+        .first()
+        .should('have.text','hello world ')
+        
+        cy.contains('hello world ').should('have.css','text-decoration','none solid rgb(0, 0, 0)')
+      cy.get('.complete-btn:first').click()
+        cy.get('.todo-item')
+        // .should('have.length', 1)
+        .first()
+        .should('have.text','hello world ')
+        cy.contains('hello world ').should('have.css','text-decoration','line-through solid rgb(0, 0, 0)')
+      })
+    })
+can strike-through item on toggling the complete button
+describe('Testing strike new item', () => {
+
+      it('can strike-through item on toggling the complete button', () => {
+       
+        cy.get('.complete-btn:first').click()
+        cy.get('.todo-item')
+        // .should('have.length', 1)
+        .first()
+        .should('have.text','hello world ')
+        
+        cy.contains('hello world ').should('have.css','text-decoration','line-through solid rgb(0, 0, 0)')
+      
+      })
+    })
+can add new todo items to the list
+
+describe('Testing adding of a new item', () => {
+
+    it('can add new todo items to the list', () => {
+        cy.visit('/')
+        //const newItem = 'Feed the cat'
+        cy.get('.todo-input').type('hello world ')
+        //cy.get('.todo-item li').type(`${newItem}{enter}`)
+        cy.get('.todo-button').click()
+        cy.get('.todo-item')
+        .should('have.length', 1)
+        .first()
+        .should('have.text','hello world ')
+    })
+  })
+can delete a task on clicking delete button
+can remove the strike-through on toggling the complete button again
+can strike-through item on toggling the complete button
+can add new todo items to the list
+Need Help? Go to Doubt Portal 
+HTML
+293027282425261920212223161718141531
+</html>
+JS
