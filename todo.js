@@ -77,3 +77,70 @@ function addTaskFn() {
         alert('Plz fill all the values.')
     }
 }
+
+
+
+
+//------------------------------
+function selectFn(event) {
+    console.log('valye selected in select dropdown------------');
+    console.log(event.target.value)
+}
+
+
+function markCheckFn(event) {
+    console.log(event.target.value)
+}
+
+
+
+function clickSelectFn () {
+    let temp = document.getElementById('travelSelect').value;
+    console.log('----------from select bob on add button -------', temp);
+}
+
+
+function clickCheckboxFn() {
+    let temp = document.querySelectorAll('[name=skills]:checked');
+    console.log(temp);
+    let skills = [];
+    for(let i=0;i<temp.length;i++) {
+        skills.push(temp[i].value);
+    }
+    console.log(skills);
+}
+
+
+
+
+
+//-------------------------------------------
+var products = [];
+
+function fetchData(products) {
+    
+    fetch('https://fakestoreapi.com/products')
+    .then((resp) => {
+        return resp.json()
+    })
+    .then(data => {
+        console.log(data);
+        products = data;
+        console.log(products)
+        //copy in localStorage
+        renderHtml(data);
+    })
+    .catch(err => console.log(err))
+
+    console.log('----------------------');
+    setTimeout(function(){
+        console.log(products);
+        document.getElementById('testData2').innerHTML = products[1].title;
+    }, 10000);
+
+}
+
+
+function renderHtml(data) {
+    document.getElementById('testData').innerHTML = data[0].title;
+}

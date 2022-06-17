@@ -46,6 +46,58 @@
                     </div>
                 </div>
 
+
+
+
+                <div>-----------------------------</div>
+
+                <div class="row" id="editPanel">
+                    <div class="col-12">
+                        <h2>Mode of Transport</h2>
+                        <select onchange="selectFn(event)" id="travelSelect">
+                            <option value="Car">Car</option>
+                            <option value="Bus">Bus</option>
+                            <option value="Train">Train</option>
+                            <option value="Flight">Flight</option>
+                        </select>
+                        <button onclick="clickSelectFn(event)">Add</button>
+                    </div>
+                </div>
+
+                <div class="row" id="editPanel">
+                    <div class="col-12">
+                        <h2>Skills</h2>
+                        <input type="checkbox" value="Java" name="skills" onclick="markCheckFn(event)"/>Java
+                        <input type="checkbox" value="JavaScript" name="skills" onclick="markCheckFn(event)"/>JavaScript
+                        <input type="checkbox" value="Python" name="skills" onclick="markCheckFn(event)"/>Python
+                        <input type="checkbox" value="React" name="skills" onclick="markCheckFn(event)"/>React
+                        <input type="checkbox" value="NodeJS" name="skills" onclick="markCheckFn(event)"/>NodeJS
+                        <button onclick="clickCheckboxFn(event)">Add</button>
+
+                    </div>
+                </div>
+
+
+
+                <div>-----------------------------</div>
+
+
+                <div class="row" id="editPanel">
+                    <div class="col-12">
+                        <h2>API Call</h2>
+                        <button onclick="fetchData()">Fetch Data</button>
+                        <h2 id="testData"></h2>
+
+                        <!-- <button onclick="testData()">Test Data</button> -->
+                        <h2 id="testData2"></h2>
+                    </div>
+                </div>
+
+
+
+
+
+
             </div>
 
 
