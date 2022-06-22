@@ -311,6 +311,23 @@ NPM - Node Package Manager
 
 
 
+Revision - 
+Day 1 - To Do js and html
+Day 2 - To Do js and html
+Day 3 - 
+Deep copy vs Shallow copy
+https://jsfiddle.net/deepak104080/6Lq8gt73/2/
+https://jsfiddle.net/deepak104080/a1jb5snr/1/
+
+Sum Example - https://jsfiddle.net/deepak104080/zar5fntx/2/
+
+Closure and Curry
+https://jsfiddle.net/deepak104080/xj6cL07v/2/
+https://jsfiddle.net/deepak104080/tudjn2wg/2/
+
+
+
+
 
 
 ----------------------------------------------------------------------------------
