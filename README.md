@@ -326,6 +326,12 @@ https://jsfiddle.net/deepak104080/xj6cL07v/2/
 https://jsfiddle.net/deepak104080/tudjn2wg/2/
 
 
+Day 4
+Generator Function - https://jsfiddle.net/deepak104080/q93hjxa6/3/
+
+Higher Order Function - https://jsfiddle.net/deepak104080/673jozmq/2/
+Polyfill - https://jsfiddle.net/deepak104080/yczqs9ju/2/
+
 
 
 
